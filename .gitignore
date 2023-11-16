@@ -1,0 +1,31 @@
+# Arquivos compilados
+target/
+
+# Diretórios de build
+build/
+
+# Arquivos temporários
+*.class
+*.log
+*.war
+*.ear
+*.jar
+
+# Diretórios específicos do Maven
+log/
+target/
+.idea/
+
+# Diretórios específicos do Gradle
+.gradle/
+build/
+
+# Arquivos de configuração do Eclipse
+.settings/
+
+# Arquivos de configuração do IntelliJ IDEA
+.idea/
+
+# Arquivos de configuração do VS Code
+.vscode/
+
